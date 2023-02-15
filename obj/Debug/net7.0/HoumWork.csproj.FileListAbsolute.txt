@@ -1,0 +1,15 @@
+C:\Users\Zhevnov\Desktop\C#\HoumWork\bin\Debug\net7.0\HoumWork.exe
+C:\Users\Zhevnov\Desktop\C#\HoumWork\bin\Debug\net7.0\HoumWork.deps.json
+C:\Users\Zhevnov\Desktop\C#\HoumWork\bin\Debug\net7.0\HoumWork.runtimeconfig.json
+C:\Users\Zhevnov\Desktop\C#\HoumWork\bin\Debug\net7.0\HoumWork.dll
+C:\Users\Zhevnov\Desktop\C#\HoumWork\bin\Debug\net7.0\HoumWork.pdb
+C:\Users\Zhevnov\Desktop\C#\HoumWork\obj\Debug\net7.0\HoumWork.csproj.AssemblyReference.cache
+C:\Users\Zhevnov\Desktop\C#\HoumWork\obj\Debug\net7.0\HoumWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhevnov\Desktop\C#\HoumWork\obj\Debug\net7.0\HoumWork.AssemblyInfoInputs.cache
+C:\Users\Zhevnov\Desktop\C#\HoumWork\obj\Debug\net7.0\HoumWork.AssemblyInfo.cs
+C:\Users\Zhevnov\Desktop\C#\HoumWork\obj\Debug\net7.0\HoumWork.csproj.CoreCompileInputs.cache
+C:\Users\Zhevnov\Desktop\C#\HoumWork\obj\Debug\net7.0\HoumWork.dll
+C:\Users\Zhevnov\Desktop\C#\HoumWork\obj\Debug\net7.0\refint\HoumWork.dll
+C:\Users\Zhevnov\Desktop\C#\HoumWork\obj\Debug\net7.0\HoumWork.pdb
+C:\Users\Zhevnov\Desktop\C#\HoumWork\obj\Debug\net7.0\HoumWork.genruntimeconfig.cache
+C:\Users\Zhevnov\Desktop\C#\HoumWork\obj\Debug\net7.0\ref\HoumWork.dll
